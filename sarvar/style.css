@@ -1,0 +1,14 @@
+body  {
+    text-align: center;
+    background-color: aqua;
+    font-family: cursive;
+
+}
+ul{
+list-style: none;
+text-align: justify;
+}
+a{
+    text-decoration: none;
+    background-color: blue;
+}

@@ -10,7 +10,7 @@ text-align: justify;
 color: aqua;
 font-family: cursive;
 text-decoration:underline; 
-text-transform: capitalize;
+text-transform:none
 float: left;
 }
 

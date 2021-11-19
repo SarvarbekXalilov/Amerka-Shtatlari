@@ -1,7 +1,7 @@
 
 .sitnav-iteam{  
     text-decoration: none;
-     color: red;
+     color:yellow;
     background-color: blue;
 }
 .sitenav-link{
@@ -25,7 +25,7 @@ text-align: center;
 }
  .images{
      height: 800px;
-     width: 600px;
+     width: 500px;
      float: left;
  }
 
